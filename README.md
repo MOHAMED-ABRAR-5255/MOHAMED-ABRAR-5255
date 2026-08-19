@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abrar S. K.</h1>
+<h1 align="center">Welcome, I'm Mohamed Abrar S. K.</h1>
 <h3 align="center">Electronics and Communication Engineering | Embedded Systems | IoT Enthusiast</h3>
 
 <p align="center">
